@@ -1,2 +1,2 @@
 # Calculator
-Java Swing base Program
+Java Swing(GUI) base Program
